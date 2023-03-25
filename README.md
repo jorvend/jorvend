@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jorvend
 - 👀 I’m interested in structures
 - 🌱 I’m currently learning structural engineering
-- 💞️ I’m looking to collaborate on structural analysis projects
 - 📫 How to reach me: through here
 
 <!---
